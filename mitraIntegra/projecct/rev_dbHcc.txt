@@ -1,7 +1,0 @@
-REVISII LAGII!:
-1. Debugging kueri filter format excel
-2. Ekspor PDF dihilangkan | ok
-3. Tabel total pelamar tiap pico
-4. urutan tabel dirubah mjd descending | ok
-5. Ketika update data, redirect ke data yang sesuai (bukan halaman awal)? jQuery
-6. tambahkan validasi tambah data baru

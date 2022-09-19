@@ -1,5 +1,0 @@
-to do
-1. Revisi db HCC
-2. requirements programmer bru
-3. mempelajari HRIS
-4. Membuat format report akun sosmed
